@@ -31,11 +31,17 @@ Before running the application first install the following dependencies:
 
 ---
 
-## Usage
+## Sections of the project
+1. Importing the required libraries
+2. Setting up the app layout
+3. Defining the callback function
+4. Running the local server
 
 
+## Overview of the Analysis
 
-
+* Data Collection
+Data was collected from kaggle in the form of  a csv file. The data featured different job aspects such as slaries, residence, company size they work for, remote ratio for in the Data Sceience careers in U.S in year 2020.
 
 ---
 
