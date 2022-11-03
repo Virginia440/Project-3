@@ -41,7 +41,8 @@ Before running the application first install the following dependencies:
 ## Overview of the Analysis
 
 * Data Collection
-Data was collected from kaggle in the form of  a csv file. The data featured different job aspects such as slaries, residence, company size they work for, remote ratio for in the Data Sceience careers in U.S in year 2020.
+
+Data was collected from kaggle in the form of a csv file. The data featured different job aspects such as slaries, residence, company size they work for, remote ratio for in the Data Sceience careers in U.S in year 2020.
 
 ---
 
