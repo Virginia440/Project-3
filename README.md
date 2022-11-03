@@ -44,6 +44,13 @@ Before running the application first install the following dependencies:
 
 Data was collected from kaggle in the form of a csv file. The data featured different job aspects such as slaries, residence, company size they work for, remote ratio for in the Data Sceience careers in U.S in year 2020.
 
+* Screenshot of dashboard skills graph
+
+<img src="https://github.com/Virginia440/Project-3/blob/main/Images/Hist%202.PNG" width=500 height=300>
+
+* Screenshot of dashboard skills map
+
+<img src="https://github.com/Virginia440/Project-3/blob/main/Images/Map%202.PNG" width=500 height=300>
 ---
 
 ## Contributors
