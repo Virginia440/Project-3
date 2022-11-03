@@ -33,15 +33,9 @@ Before running the application first install the following dependencies:
 
 ## Usage
 
-Here are some gangsta screen shots.
-
-Use the dropdown menu to set the job title you want to analyze.
-<img src=https://github.com/samlawhead/Fintech-Finder/blob/main/screenshots/Screen%20Shot%202022-10-04%20at%2018.28.36.png>
 
 
-<img src=https://github.com/samlawhead/Fintech-Finder/blob/main/screenshots/Screen%20Shot%202022-10-04%20at%2018.29.02.png>
 
-<img src=https://github.com/samlawhead/Fintech-Finder/blob/main/screenshots/Screen%20Shot%202022-10-04%20at%2018.29.26.png>
 
 ---
 
